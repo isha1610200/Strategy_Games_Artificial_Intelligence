@@ -1,0 +1,18 @@
+
+  Instructions to play the games:
+
+Download both the files: Game_Logic.py and Game_Interface_Pygame.py.
+
+Start the game by typing:  python3 Game_Interface_Pygame.py  in the command line
+
+Game window appears upon running the command and now simply follow the instructions to choose the game you want to play and the algorithm you want the AI to play with just by pressing the number keys as mentioned over there. (In case of game: Open Field Tic Tac Toe , also enter the dimensions of the playing board and the  connecting length required to win the game.)
+
+The first chance is always given to the user, so just click on cell on the board where you want to place your coin. (NOTE: Instead of Zeroes and Crosses ,  red coins are for the user(human) while the  blue ones are for AI(Computer program))
+Wait for AI to place its coin on the board before you go for the next move.
+
+Warning/Caution: 
+In case of Open Field Tic Tac Toe  , for larger dimensions of board(say greater than or equal to 5*5) , the first 4 algorithms take a lot of time for their move ; so it's better to use algorithm 5 - Experimental Minimax ,which is the fastest of all , and can be used with any reasonable board size , for instance 7*7 etcetra.
+
+ 
+
+
